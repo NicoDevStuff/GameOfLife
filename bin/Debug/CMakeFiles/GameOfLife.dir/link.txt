@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/GameOfLife.dir/libs/vec/src/vec.c.o CMakeFiles/GameOfLife.dir/src/log.c.o CMakeFiles/GameOfLife.dir/src/main.c.o -o GameOfLife  -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 

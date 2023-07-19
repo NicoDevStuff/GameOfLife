@@ -1,0 +1,18 @@
+[submodule "libs/vec"]
+	path = libs/vec
+	url = https://github.com/dssgabriel/vec.git
+[submodule "libs/toml"]
+	path = libs/toml
+	url = https://github.com/cktan/tomlc99.git
+[submodule "libs/raygui"]
+	path = libs/raygui
+	url = https://github.com/raysan5/raygui.git
+[submodule "libs/tmx"]
+	path = libs/tmx
+	url = https://github.com/baylej/tmx.git
+[submodule "libs/cimgui"]
+	path = libs/cimgui
+	url = https://github.com/cimgui/cimgui.git
+[submodule "libs/nuklear"]
+	path = libs/nuklear
+	url = https://github.com/Immediate-Mode-UI/Nuklear.git

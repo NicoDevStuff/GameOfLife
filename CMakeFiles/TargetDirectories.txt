@@ -1,0 +1,3 @@
+/home/nico/Dev/C/GameOfLife/CMakeFiles/GameOfLife.dir
+/home/nico/Dev/C/GameOfLife/CMakeFiles/edit_cache.dir
+/home/nico/Dev/C/GameOfLife/CMakeFiles/rebuild_cache.dir

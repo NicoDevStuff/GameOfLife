@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/nico/Dev/C/GameOfLife/bin/Debug",
+  "command": "/usr/bin/cc -DDEBUG -I/home/nico/Dev/C/GameOfLife/src -I/home/nico/Dev/C/GameOfLife/libs/vec/src -g -std=gnu11 -g -DBX_CONFIG_DEBUG=1 -o CMakeFiles/GameOfLife.dir/libs/vec/src/vec.c.o -c /home/nico/Dev/C/GameOfLife/libs/vec/src/vec.c",
+  "file": "/home/nico/Dev/C/GameOfLife/libs/vec/src/vec.c",
+  "output": "CMakeFiles/GameOfLife.dir/libs/vec/src/vec.c.o"
+},
+{
+  "directory": "/home/nico/Dev/C/GameOfLife/bin/Debug",
+  "command": "/usr/bin/cc -DDEBUG -I/home/nico/Dev/C/GameOfLife/src -I/home/nico/Dev/C/GameOfLife/libs/vec/src -g -std=gnu11 -g -DBX_CONFIG_DEBUG=1 -o CMakeFiles/GameOfLife.dir/src/log.c.o -c /home/nico/Dev/C/GameOfLife/src/log.c",
+  "file": "/home/nico/Dev/C/GameOfLife/src/log.c",
+  "output": "CMakeFiles/GameOfLife.dir/src/log.c.o"
+},
+{
+  "directory": "/home/nico/Dev/C/GameOfLife/bin/Debug",
+  "command": "/usr/bin/cc -DDEBUG -I/home/nico/Dev/C/GameOfLife/src -I/home/nico/Dev/C/GameOfLife/libs/vec/src -g -std=gnu11 -g -DBX_CONFIG_DEBUG=1 -o CMakeFiles/GameOfLife.dir/src/main.c.o -c /home/nico/Dev/C/GameOfLife/src/main.c",
+  "file": "/home/nico/Dev/C/GameOfLife/src/main.c",
+  "output": "CMakeFiles/GameOfLife.dir/src/main.c.o"
+}
+]
